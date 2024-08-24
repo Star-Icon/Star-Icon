@@ -4,13 +4,13 @@ This is Yi-heng ZHAO.
 
 ## 👨‍🎓 About me
 
-I'm an undergraduate student from Shanghai Medical Colledge, China, majoring in clinical medicine.
+I'm an undergraduate student from Shanghai Medical College, China, majoring in clinical medicine.
 - ⚡ I'm interested in playing basketball and reading books.
 - 😄 I'm looking forward to translating some great medical learning videos into Chinese and spreading them around.
 
 ## 📫 Contact me
 
-- ✉️ Email: [zyh2399701602@gmail.com](zyh2399701602@gmail.com)
+- ✉️ Email: [zyh2399701602@gmail.com](mailto:zyh2399701602@gmail.com)
 
 ## 💻 My skill
 
