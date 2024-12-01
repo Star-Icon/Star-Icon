@@ -22,6 +22,7 @@ I'm an undergraduate student from Shanghai Medical College, China, majoring in c
 </p>
 
 - 🌱 I’m currently learning R languages and bioinformatic skills.
+- 😀 Python is now my favorite language!
 
 
 <!---
