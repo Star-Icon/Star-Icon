@@ -18,6 +18,7 @@ I'm an undergraduate student from Shanghai Medical College, China, majoring in c
 <p align="center">
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
   <img alt="Rstudio" src="https://img.shields.io/badge/Rstudio-75AADB?style=flat-square&logo=rstudio&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
 
 - 🌱 I’m currently learning R languages and bioinformatic skills.
