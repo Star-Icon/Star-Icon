@@ -21,7 +21,7 @@ I'm an undergraduate student from Shanghai Medical College, China, majoring in c
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
 
-- 🌱 I’m currently learning R languages and bioinformatic skills.
+- 🌱 I’m currently learning machine learning and deep learning.
 - 😀 Python is now my favorite language!
 
 
